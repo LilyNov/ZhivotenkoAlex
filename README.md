@@ -15,4 +15,4 @@
 </p>
 
 [![ZhivotenkoAlex`s github stats](https://github-readme-stats.vercel.app/api?username=ZhivotenkoAlex&show_icons=true&)](https://github.com/ZhivotenkoAlex/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhivotenkoAlex&langs_count=5)](https://github.com/ZhivotenkoAlex/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZhivotenkoAlex)](https://github.com/ZhivotenkoAlex/github-readme-stats)
