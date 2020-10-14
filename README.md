@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GoIT courses
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning #E34F26
 - 👯 I’m looking to collaborate on learnig
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
