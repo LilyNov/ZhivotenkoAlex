@@ -1,9 +1,5 @@
 # **Hi there, I`m Alex** 👋
 
-<!--
-**ZhivotenkoAlex/ZhivotenkoAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GoIT courses
 - 🌱 I’m currently learning #E34F26
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
