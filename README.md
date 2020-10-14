@@ -9,10 +9,8 @@
 
 - 👯 I’m looking to collaborate on learnig with any students
 - 📫 How to reach me: 
-
-<p>
-  [![Gmail Badge](https://img.shields.io/badge/-zhivotenko.a.s@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhivotenko.a.s@gmail.com)](mailto:zhivotenko.a.s@gmail.com) 
-  <a href="https://github.com/ZhivotenkoAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oleksandr-zhivotenko-8193a378/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-zhivotenko.a.s@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhivotenko.a.s@gmail.com)](mailto:zhivotenko.a.s@gmail.com) 
+<p><a href="zhivotenko.a.s@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail.svg?&style=for-the-badge&logo=gmail&logoColor=white"<a href="https://github.com/ZhivotenkoAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oleksandr-zhivotenko-8193a378/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
