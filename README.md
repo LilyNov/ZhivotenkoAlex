@@ -12,6 +12,7 @@
 
 ## Hey 👋, This is Zhivotenko Oleksandr
 [![Gmail Badge](https://img.shields.io/badge/-zhivotenko.a.s@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhivotenko.a.s@gmail.com)](mailto:zhivotenko.a.s@gmail.com) 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Александр Животенко-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Александр Животенко/)](https://www.linkedin.com/in/Александр Животенко/) [![Github Badge](https://img.shields.io/badge/-ZhivotenkoAlex -grey?style=flat&logo=github&logoColor=white&link=https://github.com/ZhivotenkoAlex /)](https://www.github.com/ZhivotenkoAlex /) <p align='left'> You can view my resume <a href='zhivotnkoalex.github.io/resume ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ZhivotenkoAlex  alt=ZhivotenkoAlex  /> </p>
