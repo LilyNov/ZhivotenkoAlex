@@ -14,4 +14,4 @@
 <p><a href="mailto:zhivotenko.a.s@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/ZhivotenkoAlex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oleksandr-zhivotenko-8193a378/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a> <a href="https://www.facebook.com/profile.php?id=100004885682451" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"</a>
 </p>
 
-[![ZhivotenkoAlex`s github stats](https://github-readme-stats.vercel.app/api?username=ZhivotenkoAlex&show_icons=true)](https://github.com/ZhivotenkoAlex/github-readme-stats)
+[![ZhivotenkoAlex`s github stats](https://github-readme-stats.vercel.app/api?username=ZhivotenkoAlex&show_icons=true&icon_color=#7D44F9)](https://github.com/ZhivotenkoAlex/github-readme-stats)
