@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on learnig with any students
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-zhivotenko.a.s@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhivotenko.a.s@gmail.com)](mailto:zhivotenko.a.s@gmail.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004885682451)  
+
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
