@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, this is Zhivotenko Oleksandr! Nice to see you.</h1>
 
 
+- <h3>:handshake: I want to collaborate in teaching with other students</h3>
+
 
 - <h2>🌱I’m currently learning:</h2>
 
@@ -15,7 +17,7 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-- <h3>:handshake: I want to collaborate in teaching with other students</h3>
+
 
 
 -<h3>📫 How to reach me: </h3>
@@ -23,7 +25,9 @@
 </p>
 
 
-[![ZhivotenkoAlex`s github stats](https://github-readme-stats.vercel.app/api?username=ZhivotenkoAlex&show_icons=true&)](https://github.com/ZhivotenkoAlex/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhivotenkoAlex&layout=compact)](https://github.com/ZhivotenkoAlex/github-readme-stats)
+[![ZhivotenkoAlex`s github stats](https://github-readme-stats.vercel.app/api?username=ZhivotenkoAlex&show_icons=true&)](https://github.com/ZhivotenkoAlex/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhivotenkoAlex&layout=compact)](https://github.com/ZhivotenkoAlex/github-readme-stats)
 
 
 ![Profile views](https://gpvc.arturio.dev/ZhivotenkoAlex)
