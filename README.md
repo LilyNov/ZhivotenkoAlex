@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, this is Zhivotenko Oleksandr! Nice to see you.</h1>
 
 
-<h3>:handshake: I want to collaborate in teaching with other students</h3>
+<h3>:handshake: I`m looking for a job</h3>
 
 
 <h2>🌱My current stack of technologies:</h2>
